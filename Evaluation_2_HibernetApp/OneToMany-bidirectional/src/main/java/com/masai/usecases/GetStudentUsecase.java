@@ -2,7 +2,6 @@ package com.masai.usecases;
 
 import com.masai.dao.StudentDao;
 import com.masai.dao.StudentDaoImpl;
-import com.masai.exceptions.CourseNotFoundException;
 import com.masai.exceptions.StudentNotFoundException;
 
 import java.rmi.StubNotFoundException;

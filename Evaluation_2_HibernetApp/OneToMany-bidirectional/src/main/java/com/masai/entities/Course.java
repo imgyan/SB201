@@ -12,7 +12,7 @@ public class Course {
     private String courseName;
     private String duration;
     private int fee;
-     @OneToMany(cascade = CascadeType.ALL,mappedBy = "course")
+     @OneToMany(cascade = CascadeType.ALL,mappedBy = "course",fetch = FetchType.EAGER)
     private List<Student> students=new ArrayList<>();
 
 

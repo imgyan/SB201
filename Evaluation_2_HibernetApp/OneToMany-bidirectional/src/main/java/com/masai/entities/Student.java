@@ -10,7 +10,7 @@ public class Student {
     private String name;
     private String email;
     private String mobile;
-   @ManyToOne(cascade = CascadeType.ALL)
+   @ManyToOne(cascade = CascadeType.ALL,fetch = FetchType.EAGER)
    @JoinColumn(name = "courseId")
     private Course course;
 

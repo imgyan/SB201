@@ -1,0 +1,46 @@
+1. What do you mean by the IOC ?
+
+ Ans:-
+        The full-form of IOC is Inversion of Control. And if some
+        external entity is taking care of creating the dependency object then we
+        say that control is inverted to some external entity,this is called IOC.
+
+        In IOC an external entity provides the dependencies to the application
+        components instead of hard coding them int component class.
+
+
+   2. What is Dependency Injection ?
+
+   Ans:-
+         When external entity will push the dependency object to the dependent
+         class then this is known as dependency injection.
+         In Spring framework, the spring container is the external entity that will
+         push the dependency object to the dependent class.
+
+   3. Explain the life cycle of the Spring Bean ?
+
+   Ans:-
+         Spring container controls the life-cycle of a spring bean(from instantiation to
+         destruction).
+
+         Life-cycle of a spring bean has five stages:-
+
+         1. Does not exist:-
+                  Initially spring bean doesnot exist.
+
+         2. Instantiated:-
+                   All the dependencies will be resolved for a spring bean
+                   before its instantiaton is finished.
+
+         3. Initialized:-
+                   In this phase initialization is done.
+
+         4. Service:-
+                   In this phase spring container provides the bean object reference
+                   to the caller.
+
+         5. Destroy:-
+                   In this step spring container will call user-defined destroy
+                   method if it is configured, just before instance is garbage
+                   collected.
+

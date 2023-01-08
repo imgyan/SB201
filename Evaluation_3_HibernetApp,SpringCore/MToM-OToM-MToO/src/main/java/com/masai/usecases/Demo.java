@@ -24,21 +24,22 @@ public class Demo {
 //        System.out.println(gym);
 
 
-//      Gym gym=em.find(Gym.class,1);
+//        Gym gym = em.find(Gym.class, 1);
 //
-//      Person p=new Person();
-//      p.setName("Aman");
-//      p.setEmail("aman@gmail.com");
-//      p.setMobile("989399393");
-//      p.getGymList().add(gym);
+//        Person p = new Person();
+//        p.setName("Aman");
+//        p.setEmail("aman@gmail.com");
+//        p.setMobile("989399393");
 //
-//      gym.getPersonList().add(p);
+//        p.getGymList().add(gym);
 //
-//       em.getTransaction().begin();
+//        gym.getPersonList().add(p);
+//
+//        em.getTransaction().begin();
 //        em.persist(p);
 //        em.getTransaction().commit();
 //        em.close();
-//      System.out.println(p);
+//        System.out.println(p);
 
 
 //        Trainer trainer=new Trainer();
@@ -56,8 +57,8 @@ public class Demo {
 //        Gym gym = em.find(Gym.class, 1);
 //
 //        Trainer trainer = new Trainer();
-//        trainer.setTrainer_name("xyz");
-//        trainer.setEmail("xyz@gmail.com");
+//        trainer.setTrainer_name("abc");
+//        trainer.setEmail("abc@gmail.com");
 //        trainer.setYear_of_experience(4);
 //
 //        gym.setTrainer(trainer);

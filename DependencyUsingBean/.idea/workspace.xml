@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7d66045-f73e-4a0f-a3ef-85a4074f4e46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/SB201.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/masai/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/masai/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/masai/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/masai/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/a1.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Setter_Constructor_Injection/src/main/java/com/masai/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Setter_Constructor_Injection/src/main/java/com/masai/HolidayPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Setter_Constructor_Injection/src/main/java/com/masai/Tourist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Setter_Constructor_Injection/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Evaluation_3_HibernetApp,SpringCore/MToM-OToM-MToO/src/main/java/com/masai/entities/Trainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Evaluation_3_HibernetApp,SpringCore/MToM-OToM-MToO/src/main/java/com/masai/entities/Trainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Evaluation_3_HibernetApp,SpringCore/MToM-OToM-MToO/src/main/java/com/masai/usecases/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Evaluation_3_HibernetApp,SpringCore/MToM-OToM-MToO/src/main/java/com/masai/usecases/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Evaluation_3_HibernetApp,SpringCore/MToM-OToM-MToO/target/classes/com/masai/entities/Trainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Evaluation_3_HibernetApp,SpringCore/MToM-OToM-MToO/target/classes/com/masai/entities/Trainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Evaluation_3_HibernetApp,SpringCore/MToM-OToM-MToO/target/classes/com/masai/usecases/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Evaluation_3_HibernetApp,SpringCore/MToM-OToM-MToO/target/classes/com/masai/usecases/Demo.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Jxc4HFdTqv04LJLoAd8zNGouM7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/anike/Desktop/SpringProject"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.masai.Demo" />
+      <module name="DependencyUsingBean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.masai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7d66045-f73e-4a0f-a3ef-85a4074f4e46" name="Changes" comment="" />
+      <created>1673022983798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673022983798</updated>
+    </task>
+    <servers />
+  </component>
+</project>

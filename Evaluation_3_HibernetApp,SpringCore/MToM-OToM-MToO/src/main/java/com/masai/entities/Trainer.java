@@ -14,7 +14,7 @@ public class Trainer {
     private int year_of_experience;
     private String email;
 
-    @OneToMany(cascade = CascadeType.ALL,fetch = FetchType.EAGER)
+    @OneToMany(cascade = CascadeType.ALL,fetch = FetchType.EAGER,mappedBy = "trainer")
     private List<Gym> gymList =new ArrayList<>();
 
 

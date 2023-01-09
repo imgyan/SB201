@@ -15,12 +15,14 @@ public class AppConfig {
 
 
     @Bean
-    public List<String>  getStudent(){
+    public List<Student>  getStudent(){
 
-        List<String> students=new ArrayList<>();
-        students.add("A");
-        students.add("B");
-        students.add("C");
+        List<Student> students=new ArrayList<>();
+
+        Student s1=new Student();
+        s1.setName("Aman");
+        s1.setRoll(1);
+        students.add(s1);
 
         return students;
     }

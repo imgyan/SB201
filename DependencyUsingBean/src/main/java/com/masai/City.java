@@ -8,6 +8,7 @@ import java.util.List;
 @Component
 public class City {
     @Value("#{'${cities}'.split(',')}")
+  // @Value("${cities}")
     private List<String> cities;
 
 

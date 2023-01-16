@@ -32,7 +32,7 @@ public class Course {
 	private Integer courseId;
 	private String courseName;
 	private Integer fee;
-	private String desc;
+	private String description;
 	
 	
 	@ManyToMany(cascade = CascadeType.ALL, mappedBy = "courses")
